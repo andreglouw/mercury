@@ -1,0 +1,89 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/Mercury">
+        <file>resources/Add_Contacts_100.png</file>
+        <file>resources/Add_Email_48.png</file>
+        <file>resources/Arrive_At_100.png</file>
+        <file>resources/Arrow_Down_100.png</file>
+        <file>resources/Arrow_Left_100.png</file>
+        <file>resources/Arrow_Up_100.png</file>
+        <file>resources/Cancel_100.png</file>
+        <file>resources/Clear_100.png</file>
+        <file>resources/Delete_Contacts_100.png</file>
+        <file>resources/Delete_100.png</file>
+        <file>resources/Depart_From_100.png</file>
+        <file>resources/Edit_48.png</file>
+        <file>resources/Free_Format_100.png</file>
+        <file>resources/Fuel_100.png</file>
+        <file>resources/High_Rate_100.png</file>
+        <file>resources/Home_100.png</file>
+        <file>resources/OK_100.png</file>
+        <file>resources/Outbox_100.png</file>
+        <file>resources/Panic_100.png</file>
+        <file>resources/Passengers_100.png</file>
+        <file>resources/Poll_GPS_100.png</file>
+        <file>resources/Power_100.png</file>
+        <file>resources/Recipients_100.png</file>
+        <file>resources/Refresh 16 n p8.png</file>
+        <file>resources/Registration_100.png</file>
+        <file>resources/Revert_100.png</file>
+        <file>resources/Save_48.png</file>
+        <file>resources/Startup.png</file>
+        <file>resources/Template_1_100.png</file>
+        <file>resources/Template_2_100.png</file>
+        <file>resources/Template_3_100.png</file>
+        <file>resources/Template_4_100.png</file>
+        <file>resources/Template_5_100.png</file>
+        <file>resources/Update_100.png</file>
+        <file>mercury.css</file>
+        <file>resources/Return_100.png</file>
+        <file>resources/Arrow_Right_100.png</file>
+        <file>resources/Brightness_Up.png</file>
+        <file>resources/Brightness_Down.png</file>
+        <file>resources/New_Message_100.png</file>
+        <file>resources/New_Template_100.png</file>
+        <file>resources/Operations_100.png</file>
+        <file>resources/Quick_Message_100.png</file>
+        <file>resources/Send_100.png</file>
+        <file>resources/Snags_100.png</file>
+        <file>resources/Admin_100.png</file>
+        <file>resources/Inbox_100.png</file>
+        <file>resources/Inbox_85.png</file>
+        <file>resources/Outbox_85.png</file>
+        <file>resources/Quick_Message_85.png</file>
+        <file>resources/New_Message_85.png</file>
+        <file>resources/Send_85.png</file>
+        <file>resources/Recipients_85.png</file>
+        <file>resources/Panic_text_100.png</file>
+        <file>resources/Panic_text_100_high.png</file>
+        <file>resources/Reply_Message_85.png</file>
+        <file>resources/Setup_100.png</file>
+        <file>resources/Contact_100.png</file>
+        <file>resources/MediVac_100.png</file>
+        <file>resources/Mission_Ready_100.png</file>
+        <file>resources/Report_Lines_100.png</file>
+        <file>resources/Weather_100.png</file>
+        <file>resources/WeatherRefresh_100.png</file>
+        <file>resources/WeatherAdd_100.png</file>
+        <file>resources/InboxNeon_100.png</file>
+        <file>resources/handwriting.png</file>
+        <file>resources/keyboard.png</file>
+        <file>resources/OK_MET_100.png</file>
+        <file>resources/OK_TAF_100.png</file>
+    </qresource>
+    <qresource prefix="/Keyboard">
+        <file>resources/Eraser Pink 2 24 n p8.png</file>
+        <file>resources/Swap Case 24 n p8.png</file>
+    </qresource>
+    <qresource prefix="/Outbox">
+        <file alias="EmailSent">resources/Upload to Web 16 n p8.png</file>
+        <file alias="EmailError">resources/Error Round Red 16 n p8.png</file>
+        <file alias="EmailBusy">resources/Hourglass 16 n p8.png</file>
+        <file alias="EmailAcked">resources/Handshake 16 n p8.png</file>
+    </qresource>
+    <qresource prefix="/Inbox">
+        <file alias="EmailOpened">resources/Book Open Green 16 n p8.png</file>
+    </qresource>
+    <qresource prefix="/Common">
+        <file alias="EmailWaiting">resources/Book Green 16 n p8.png</file>
+    </qresource>
+</RCC>

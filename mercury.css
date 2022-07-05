@@ -1,0 +1,80 @@
+Mercury
+{
+	background-image: none;
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0230455, x2:1, y2:1, stop:0 rgba(3, 15, 255, 255), stop:0.880682 rgba(187, 197, 255, 255));
+}
+QWidget
+{
+	font: 18pt "MS Shell Dlg 2";
+}
+QGroupBox
+{
+	font: 18pt "MS Shell Dlg 2";
+}
+QPushButton
+{
+	border-style: outset;
+	border-width: 2px;
+	border-radius: 5px;
+	border-color: rgb(225, 225, 225);
+	font: 10pt "MS Shell Dlg 2";
+}
+QPushButton:!pressed
+{
+	font-weight: bold;
+	border-color: rgb(53, 53, 53);
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0231818, x2:1, y2:1, stop:0 rgba(136, 176, 184, 255), stop:0.710227 rgba(255, 255, 255, 255));
+	font: 10pt "MS Shell Dlg 2";
+}
+QPushButton:pressed
+{
+	font-weight: bold;
+	border-color: rgb(53, 53, 53);
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0231818, x2:1, y2:1, stop:0 rgba(255, 255, 255, 255), stop:0.710227 rgba(136, 176, 184, 255));
+	font: 10pt "MS Shell Dlg 2";
+}
+QTableView
+{
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0231818, x2:1, y2:1, stop:0 rgba(194, 212, 212, 255), stop:1 rgba(223, 230, 230, 255));
+
+}
+QListView
+{
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0231818, x2:1, y2:1, stop:0 rgba(194, 212, 212, 255), stop:1 rgba(223, 230, 230, 255));
+}
+QListWidget
+{
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0231818, x2:1, y2:1, stop:0 rgba(194, 212, 212, 255), stop:1 rgba(223, 230, 230, 255));
+}
+QHeaderView::section
+{
+	padding-left: 4px;
+	background-color: #6c6c6c;
+}
+QGroupBox::title
+{
+	color: rgb(20, 20, 127);
+}
+QPlainTextEdit
+{
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0231818, x2:1, y2:1, stop:0 rgba(255, 254, 208, 255), stop:1 rgba(255, 253, 235, 255));
+}
+QPlainTextEdit#recipientName
+{
+	background-color: gainsboro;
+}
+QWidget#keyboard
+{
+	background-color: rgb(127, 127, 127);
+}
+QLabel#pageDescription
+{
+	background-color: lightgrey;
+	color: rgb(0, 0, 0);
+}
+QScrollBar:vertical {
+	background-color: qlineargradient(spread:pad, x1:0.028, y1:0.0231818, x2:1, y2:1, stop:0 rgba(136, 176, 184, 255), stop:0.710227 rgba(255, 255, 255, 255));
+	border-width: 2px;
+	border-radius: 5px;
+	border-color: rgb(225, 225, 225);
+}
