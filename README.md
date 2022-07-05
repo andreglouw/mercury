@@ -1,2 +1,2 @@
-# mercury
-Client side QT-GUI based interface for Mercury
+# Mercury Client
+Client side QT-GUI Python based interface for Mercury
